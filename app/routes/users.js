@@ -8,7 +8,7 @@ router.get("/", function(req, res, next) {
 
 router.get("/", function(req, res, next) {
   //Luke test
-  res.send("respond with a resource"); //Luke test
+  res.send("respond with a resource"); //Luke test casadasdsa
 });
 
 router.get("/", function(req, res, next) {
